@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhamsulton)](https://github.com/adhamsulton/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhamsulton&layout=compact)](https://github.com/adhamsulton/github-readme-stats)
 
 <!--
 **adhamsulton/adhamsulton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
